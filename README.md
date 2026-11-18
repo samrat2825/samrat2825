@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+backend+engineer%2C+Delhi;%3E+stack+%E2%86%92+Python+%2F+Django+%2F+Go+%2F+AWS+Lambda;%3E+uptime+%E2%86%92+18M+Lambda+invocations+a+day" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+backend+engineer%2C+Delhi;%3E+stack+%E2%86%92+Python+%2F+Django+%2F+Go+%2F+AWS+Lambda" alt="typing intro" />
 </p>
 
 <p align="center">
