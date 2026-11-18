@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+backend+engineer%2C+Bengaluru;%3E+stack+%E2%86%92+Python+%2F+Django+%2F+Go+%2F+AWS+Lambda;%3E+uptime+%E2%86%92+18M+Lambda+invocations+a+day;%3E+status+%E2%86%92+open+to+fintech+roles" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+backend+engineer%2C+Delhi;%3E+stack+%E2%86%92+Python+%2F+Django+%2F+Go+%2F+AWS+Lambda;%3E+uptime+%E2%86%92+18M+Lambda+invocations+a+day;%3E+status+%E2%86%92+open+to+fintech+roles" alt="typing intro" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 <h2 align="center">▙ RUN HISTORY ▟</h2>
 
 ```text
-[2023-09 → now ]  SOFTWARE ENGINEER ░ Updraft ░ Bengaluru
+[2023-09 → now ]  SOFTWARE ENGINEER ░ Updraft ░ Delhi
   ├─ 13-microservice AWS platform, 16-18M Lambda invocations a day
   │    (p95 600ms, p99 1.05s)
   ├─ Payments API: 25k transactions/day peak, 1.7M+ total
@@ -122,7 +122,7 @@ MISC  Cleared the National Defence Academy exam (top percentile)
 
 <p align="center">
   Looking for backend or platform roles in fintech, payments, or high-scale distributed systems.<br/>
-  <a href="mailto:patel.samrat2000@gmail.com">patel.samrat2000@gmail.com</a> · <a href="https://linkedin.com/in/samrat-patel">linkedin.com/in/samrat-patel</a> · Bengaluru, India
+  <a href="mailto:patel.samrat2000@gmail.com">patel.samrat2000@gmail.com</a> · <a href="https://linkedin.com/in/samrat-patel">linkedin.com/in/samrat-patel</a> · Delhi, India
 </p>
 
 <p align="center">
