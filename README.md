@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsamrat2825%2Fsamrat2825%2Fmain%2Fstats.json&query=%24.updatedAt&label=SYNCED&style=for-the-badge&labelColor=0b0014&color=f9f002" alt="Last synced" />
 </p>
 
-<sub align="center">Counts come from GitHub's contribution API, public and private, and a scheduled Action redraws the panel every night.</sub>
+<p align="center"><sub>Counts come from GitHub's contribution API, public and private, and a scheduled Action redraws the panel every night.</sub></p>
 
 <br/>
 
@@ -77,28 +77,37 @@
 
 ```text
 [2023-09 → now ]  SOFTWARE ENGINEER ░ Updraft ░ Bengaluru
-  ├─ 13-microservice AWS platform, 16-18M Lambda invocations/day (p95 600ms, p99 1.05s)
-  ├─ Payments API: 25k transactions/day peak, 1.7M+ total; loan management for 145k+ accounts
-  ├─ NOSIA: FCA compliance pipeline for 70k active loans with automated arrears calculators
+  ├─ 13-microservice AWS platform, 16-18M Lambda invocations a day
+  │    (p95 600ms, p99 1.05s)
+  ├─ Payments API: 25k transactions/day peak, 1.7M+ total
+  ├─ Loan management for 145k+ accounts
+  ├─ NOSIA: FCA compliance pipeline for 70k active loans,
+  │    automated arrears calculators
   ├─ Catch-up payment scheduling that lifted recovery by 20%
-  ├─ Self-hosted AI orchestration platform on ECS/Fargate, provisioned with Terraform
-  └─ Cut $10k/year from staging by consolidating environments and moving to private IP routing
+  ├─ Self-hosted AI orchestration platform on ECS/Fargate via Terraform
+  └─ Cut $10k/year from staging: consolidated environments,
+       private IP routing
 
 [2022-04 → 2023-07]  SOFTWARE DEVELOPMENT ENGINEER ░ Amigo Softcom ░ Gurugram
-  ├─ GitHub Actions CI/CD from scratch; team went to 2-3 production releases a day
-  ├─ Go (Mux) REST APIs wiring Shopify, WooCommerce and Google Analytics for 10+ D2C brands
+  ├─ GitHub Actions CI/CD from scratch; 2-3 production releases a day
+  ├─ Go (Mux) REST APIs wiring Shopify, WooCommerce and
+  │    Google Analytics for 10+ D2C brands
   └─ JSON-driven backend UI rendering that cut frontend turnaround by 80%
 
 [2021-07 → 2022-03]  SOFTWARE ENGINEER, FULL-STACK ░ Creed Essential ░ New Delhi
-  ├─ Led a team of 7 on a Next.js + Firebase consumer platform with SSR and PWA support
-  └─ Firestore schema redesign that cut query latency 30% on the React Native app
+  ├─ Led a team of 7 on a Next.js + Firebase consumer platform
+  │    with SSR and PWA support
+  └─ Firestore schema redesign, 30% lower query latency on the
+       React Native app
 ```
 
 <h2 align="center">▙ CREDENTIALS ▟</h2>
 
 ```text
-EDU   Delhi Technological University ░ B.Tech, Computer Engineering ░ 2018-2022 ░ CGPA 8.60/10
-PUB   Healthcare 5.0: Improving Personalised Care using Blockchain and AI ░ 6th Intl. Conference, 2022
+EDU   Delhi Technological University ░ B.Tech, Computer Engineering
+      2018-2022 ░ CGPA 8.60/10
+PUB   Healthcare 5.0: Improving Personalised Care using Blockchain and AI
+      6th International Conference, 2022
 CERT  Machine Learning Specialisation ░ Deep Learning Specialisation ░ Andrew Ng
 MISC  Cleared the National Defence Academy exam (top percentile)
 ```
