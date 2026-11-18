@@ -1,76 +1,122 @@
-# Hi, I'm Samrat Patel
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff2bd6,50:7a00ff,100:00f0ff&text=SAMRAT%20PATEL&fontColor=0b0014&fontSize=56&fontAlignY=38&desc=backend%20%2F%2F%20fintech%20%2F%2F%20payments&descAlignY=58&descSize=18&animation=fadeIn" alt="Samrat Patel" />
+</p>
 
-Backend Engineer · Fintech & Payments · Django · Go · AWS
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=%3E+whoami+%E2%86%92+backend+engineer%2C+Bengaluru;%3E+stack+%E2%86%92+Python+%2F+Django+%2F+Go+%2F+AWS+Lambda;%3E+uptime+%E2%86%92+18M+Lambda+invocations+a+day;%3E+status+%E2%86%92+open+to+fintech+roles" alt="typing intro" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samrat--patel-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samrat-patel) [![Email](https://img.shields.io/badge/Email-patel.samrat2000%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:patel.samrat2000@gmail.com) ![Profile views](https://komarev.com/ghpvc/?username=samrat2825&style=flat&color=blue)
+<p align="center">
+  <a href="https://linkedin.com/in/samrat-patel"><img src="https://img.shields.io/badge/LINKEDIN-samrat--patel-0b0014?style=for-the-badge&logo=linkedin&logoColor=00f0ff&labelColor=0b0014&color=ff2bd6" alt="LinkedIn" /></a>
+  <a href="mailto:patel.samrat2000@gmail.com"><img src="https://img.shields.io/badge/MAIL-patel.samrat2000-0b0014?style=for-the-badge&logo=gmail&logoColor=00f0ff&labelColor=0b0014&color=ff2bd6" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=samrat2825&style=for-the-badge&color=7a00ff&label=VISITORS" alt="Profile views" />
+</p>
 
----
+<h2 align="center">▙ COMMIT LOG ▟</h2>
 
-## About Me
+<p align="center">
+  <a href="https://github.com/samrat2825?tab=repositories">
+    <img src="https://raw.githubusercontent.com/samrat2825/samrat2825/main/assets/commits.svg" alt="Commit counter, refreshed daily" width="900" />
+  </a>
+</p>
 
-I am a backend engineer with 4+ years of experience building production-grade fintech systems at scale. Currently at Updraft (UK FCA-authorised, 800k+ users), where I own two core Python/Django microservices: a payments API (1.7M+ transactions) and a loan management system (145k+ accounts), both serverless on AWS Lambda with EventBridge-driven async processing.
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsamrat2825%2Fsamrat2825%2Fmain%2Fstats.json&query=%24.commitsAllTimeLabel&label=COMMITS%20ALL%20TIME&style=for-the-badge&labelColor=0b0014&color=ff2bd6" alt="Commits all time" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsamrat2825%2Fsamrat2825%2Fmain%2Fstats.json&query=%24.contributionsLastYearLabel&label=LAST%2012%20MONTHS&style=for-the-badge&labelColor=0b0014&color=00f0ff" alt="Contributions last 12 months" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsamrat2825%2Fsamrat2825%2Fmain%2Fstats.json&query=%24.updatedAt&label=SYNCED&style=for-the-badge&labelColor=0b0014&color=f9f002" alt="Last synced" />
+</p>
 
-I care deeply about system reliability, observability, and clean architecture. I have shipped FCA regulatory compliance pipelines, engineered catch-up payment scheduling that improved recovery by 20%, and saved $10k/year in infrastructure costs through smart staging environment optimisations.
+<sub align="center">Counts come from GitHub's contribution API, public and private, and a scheduled Action redraws the panel every night.</sub>
 
----
+<br/>
 
-## Tech Stack
+```text
+┌─[ samrat@updraft ]─[ ~/payments ]
+│
+│  4+ years building fintech backends that have to stay up.
+│  At Updraft (UK, FCA-authorised, 800k+ users) I own two core
+│  Python/Django services: the payments API (1.7M+ transactions)
+│  and the loan management system (145k+ accounts). Both run
+│  serverless on AWS Lambda with EventBridge driving async work.
+│
+│  Things I care about: reliability, observability, boring
+│  architecture that survives a 3am page.
+│
+└─$ _
+```
 
-- **Languages:** Go, Python, TypeScript, JavaScript
-- **Backend:** Django/DRF, REST APIs, GraphQL, Microservices, Event-driven Architecture
-- **Cloud & DevOps:** AWS Lambda, ECS, RDS, S3, EventBridge, ALB, VPC, Terraform, Docker, Kafka, GitHub Actions
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, ClickHouse, Firebase
-- **Frontend:** React.js, Next.js
-- **Observability:** Datadog, Sentry, AWS X-Ray, Jest, Playwright, Go testing
+<h2 align="center">▙ LOADOUT ▟</h2>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0b0014?style=for-the-badge&logo=python&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Django-0b0014?style=for-the-badge&logo=django&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Go-0b0014?style=for-the-badge&logo=go&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/TypeScript-0b0014?style=for-the-badge&logo=typescript&logoColor=00f0ff" />
+  <img src="https://img.shields.io/badge/Next.js-0b0014?style=for-the-badge&logo=nextdotjs&logoColor=00f0ff" />
+  <br/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-0b0014?style=for-the-badge&logo=awslambda&logoColor=ff2bd6" />
+  <img src="https://img.shields.io/badge/ECS-0b0014?style=for-the-badge&logo=amazonecs&logoColor=ff2bd6" />
+  <img src="https://img.shields.io/badge/Terraform-0b0014?style=for-the-badge&logo=terraform&logoColor=ff2bd6" />
+  <img src="https://img.shields.io/badge/Docker-0b0014?style=for-the-badge&logo=docker&logoColor=ff2bd6" />
+  <img src="https://img.shields.io/badge/Kafka-0b0014?style=for-the-badge&logo=apachekafka&logoColor=ff2bd6" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0b0014?style=for-the-badge&logo=githubactions&logoColor=ff2bd6" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0b0014?style=for-the-badge&logo=postgresql&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/MySQL-0b0014?style=for-the-badge&logo=mysql&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/MongoDB-0b0014?style=for-the-badge&logo=mongodb&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/Redis-0b0014?style=for-the-badge&logo=redis&logoColor=f9f002" />
+  <img src="https://img.shields.io/badge/ClickHouse-0b0014?style=for-the-badge&logo=clickhouse&logoColor=f9f002" />
+  <br/>
+  <img src="https://img.shields.io/badge/Datadog-0b0014?style=for-the-badge&logo=datadog&logoColor=7a00ff" />
+  <img src="https://img.shields.io/badge/Sentry-0b0014?style=for-the-badge&logo=sentry&logoColor=7a00ff" />
+  <img src="https://img.shields.io/badge/Playwright-0b0014?style=for-the-badge&logo=playwright&logoColor=7a00ff" />
+  <img src="https://img.shields.io/badge/Jest-0b0014?style=for-the-badge&logo=jest&logoColor=7a00ff" />
+</p>
 
-## Experience
+<h2 align="center">▙ RUN HISTORY ▟</h2>
 
-**Software Engineer at Updraft** (Sep 2023 - Present | Bengaluru, India)
-- Maintain a 13-microservice AWS platform handling 16-18M+ daily Lambda invocations (p95 600ms, p99 1.05s)
-- Own payments API: 25k transactions/day peak, 1.7M+ total, and loan management for 145k+ accounts
-- Built NOSIA, an FCA regulatory compliance pipeline for 70k active loans with automated arrears calculators
-- Deployed a self-hosted AI orchestration platform on AWS ECS/Fargate via Terraform
-- Saved $10k/year on staging infrastructure by consolidating environments and switching to private IP routing
+```text
+[2023-09 → now ]  SOFTWARE ENGINEER ░ Updraft ░ Bengaluru
+  ├─ 13-microservice AWS platform, 16-18M Lambda invocations/day (p95 600ms, p99 1.05s)
+  ├─ Payments API: 25k transactions/day peak, 1.7M+ total; loan management for 145k+ accounts
+  ├─ NOSIA: FCA compliance pipeline for 70k active loans with automated arrears calculators
+  ├─ Catch-up payment scheduling that lifted recovery by 20%
+  ├─ Self-hosted AI orchestration platform on ECS/Fargate, provisioned with Terraform
+  └─ Cut $10k/year from staging by consolidating environments and moving to private IP routing
 
-**Software Development Engineer at Amigo Softcom LLP** (Apr 2022 - Jul 2023 | Gurugram, India)
-- Built GitHub Actions CI/CD pipelines from scratch, scaling team to 2-3 production releases/day
-- Developed RESTful APIs in Go (Mux) integrating Shopify, WooCommerce and Google Analytics for 10+ D2C brands
-- Reduced frontend development turnaround by 80% via a JSON-based backend-driven UI rendering system
+[2022-04 → 2023-07]  SOFTWARE DEVELOPMENT ENGINEER ░ Amigo Softcom ░ Gurugram
+  ├─ GitHub Actions CI/CD from scratch; team went to 2-3 production releases a day
+  ├─ Go (Mux) REST APIs wiring Shopify, WooCommerce and Google Analytics for 10+ D2C brands
+  └─ JSON-driven backend UI rendering that cut frontend turnaround by 80%
 
-**Software Engineer (Full-Stack) at Creed Essential** (Jul 2021 - Mar 2022 | New Delhi, India)
-- Led full-stack development of a consumer platform (team of 7) using Next.js and Firebase with SSR and PWA support
-- Reduced Firestore query latency by 30% through schema redesign on a React Native mobile app
+[2021-07 → 2022-03]  SOFTWARE ENGINEER, FULL-STACK ░ Creed Essential ░ New Delhi
+  ├─ Led a team of 7 on a Next.js + Firebase consumer platform with SSR and PWA support
+  └─ Firestore schema redesign that cut query latency 30% on the React Native app
+```
 
----
+<h2 align="center">▙ CREDENTIALS ▟</h2>
 
-## Education
+```text
+EDU   Delhi Technological University ░ B.Tech, Computer Engineering ░ 2018-2022 ░ CGPA 8.60/10
+PUB   Healthcare 5.0: Improving Personalised Care using Blockchain and AI ░ 6th Intl. Conference, 2022
+CERT  Machine Learning Specialisation ░ Deep Learning Specialisation ░ Andrew Ng
+MISC  Cleared the National Defence Academy exam (top percentile)
+```
 
-**Delhi Technological University (DTU)** - B.Tech in Computer Engineering
-CGPA: 8.60 / 10.0 | 2018-2022 | New Delhi, India
+<h2 align="center">▙ TELEMETRY ▟</h2>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samrat2825&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0014&title_color=ff2bd6&icon_color=00f0ff&text_color=c8c8d8&ring_color=ff2bd6" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat2825&layout=compact&hide_border=true&bg_color=0b0014&title_color=ff2bd6&text_color=c8c8d8" alt="Top languages" height="170" />
+</p>
 
-## Achievements
+<h2 align="center">▙ OPEN CHANNEL ▟</h2>
 
-- **Publication:** Healthcare 5.0: A Study on Improving Personalised Care using Blockchain and AI (6th International Conference, 2022)
-- **Certifications:** Machine Learning Specialisation and Deep Learning Specialisation by Andrew Ng
-- **National Defence Academy Exam:** Cleared the NDA national-level competitive examination (top percentile)
+<p align="center">
+  Looking for backend or platform roles in fintech, payments, or high-scale distributed systems.<br/>
+  <a href="mailto:patel.samrat2000@gmail.com">patel.samrat2000@gmail.com</a> · <a href="https://linkedin.com/in/samrat-patel">linkedin.com/in/samrat-patel</a> · Bengaluru, India
+</p>
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samrat2825&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samrat2825&layout=compact&theme=dark&hide_border=true)
-
----
-
-## Open to Opportunities
-
-I am actively looking for backend/platform engineering roles in fintech, payments, or high-scale distributed systems.
-
-- Email: [patel.samrat2000@gmail.com](mailto:patel.samrat2000@gmail.com)
-- LinkedIn: [linkedin.com/in/samrat-patel](https://linkedin.com/in/samrat-patel)
-- Location: Bengaluru, India
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00f0ff,50:7a00ff,100:ff2bd6" alt="" />
+</p>

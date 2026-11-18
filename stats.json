@@ -1,0 +1,57 @@
+{
+  "login": "samrat2825",
+  "updatedAt": "2026-11-18",
+  "commitsAllTime": 7515,
+  "commitsAllTimeLabel": "7,515",
+  "contributionsLastYear": 2358,
+  "contributionsLastYearLabel": "2,358",
+  "commitsLastYear": 2356,
+  "publicRepos": 60,
+  "years": [
+    {
+      "year": 2018,
+      "commits": 1,
+      "all": 3
+    },
+    {
+      "year": 2019,
+      "commits": 48,
+      "all": 67
+    },
+    {
+      "year": 2020,
+      "commits": 16,
+      "all": 43
+    },
+    {
+      "year": 2021,
+      "commits": 636,
+      "all": 652
+    },
+    {
+      "year": 2022,
+      "commits": 97,
+      "all": 103
+    },
+    {
+      "year": 2023,
+      "commits": 500,
+      "all": 501
+    },
+    {
+      "year": 2024,
+      "commits": 2566,
+      "all": 2566
+    },
+    {
+      "year": 2025,
+      "commits": 1746,
+      "all": 1746
+    },
+    {
+      "year": 2026,
+      "commits": 1905,
+      "all": 1907
+    }
+  ]
+}

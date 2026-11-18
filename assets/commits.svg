@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="7,515 commits on GitHub since 2018">
+  <title>7,515 commits since 2018</title>
+  <defs>
+    <filter id="glowC" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glowM" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity="0.18"/></pattern>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#00f0ff" stroke-opacity="0.08"/></pattern>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#ff2bd6"/><stop offset="1" stop-color="#00f0ff"/></linearGradient>
+  </defs>
+  <style>
+    text{font-family:"JetBrains Mono","Fira Code","SFMono-Regular",Menlo,Consolas,monospace}
+    .lbl{fill:#00f0ff;font-size:13px;letter-spacing:3px}
+    .big{fill:#ff2bd6;font-size:84px;font-weight:700;letter-spacing:2px}
+    .sub{fill:#9aa0b4;font-size:12px}
+    .mini{fill:#f9f002;font-size:22px;font-weight:700}
+    .minil{fill:#00f0ff;font-size:10px;letter-spacing:2px}
+    .tick{fill:#9aa0b4;font-size:10px}
+    .val{fill:#e6e6f0;font-size:9px}
+    .big{animation:flicker 6s infinite}
+    .cursor{animation:blink 1s steps(2,start) infinite}
+    @keyframes flicker{0%,93%,100%{opacity:1}94%{opacity:.55}95%{opacity:1}97%{opacity:.7}98%{opacity:1}}
+    @keyframes blink{to{visibility:hidden}}
+  </style>
+  <rect width="900" height="320" rx="10" fill="#0b0014"/>
+  <rect width="900" height="320" rx="10" fill="url(#grid)"/>
+  <rect x="1" y="1" width="898" height="318" rx="10" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+  <path d="M0 14 H900" stroke="#ff2bd6" stroke-opacity="0.6"/>
+  <text x="32" y="48" class="lbl">&gt; GIT LOG --ONELINE | WC -L<tspan class="cursor">_</tspan></text>
+  <text x="32" y="150" class="big" filter="url(#glowM)">7,515</text>
+  <text x="32" y="182" class="sub">commits since 2018  //  public + private  //  synced 2026-11-18</text>
+  <text x="32" y="262" class="mini" filter="url(#glowC)">2,358</text>
+  <text x="32" y="280" class="minil">CONTRIBUTIONS // LAST 12 MONTHS</text>
+  <text x="320" y="262" class="mini" filter="url(#glowC)">60</text>
+  <text x="320" y="280" class="minil">PUBLIC REPOS</text>
+  <text x="470" y="262" class="mini" filter="url(#glowC)">2,566</text>
+  <text x="470" y="280" class="minil">BEST YEAR // 2024</text>
+  <text x="600" y="48" class="lbl">COMMITS / YEAR</text>
+  <line x1="600" y1="220" x2="870" y2="220" stroke="#00f0ff" stroke-opacity="0.35"/>
+  
+    <rect class="bar" x="600" y="216" width="21" height="4" rx="2" fill="#00f0ff" opacity="0.75"/>
+    <text x="610.5" y="236" class="tick" text-anchor="middle">18</text>
+    <text x="610.5" y="211" class="val" text-anchor="middle">1</text>
+    <rect class="bar" x="631" y="216" width="21" height="4" rx="2" fill="#00f0ff" opacity="0.75"/>
+    <text x="641.5" y="236" class="tick" text-anchor="middle">19</text>
+    <text x="641.5" y="211" class="val" text-anchor="middle">48</text>
+    <rect class="bar" x="662" y="216" width="21" height="4" rx="2" fill="#00f0ff" opacity="0.75"/>
+    <text x="672.5" y="236" class="tick" text-anchor="middle">20</text>
+    <text x="672.5" y="211" class="val" text-anchor="middle">16</text>
+    <rect class="bar" x="693" y="183" width="21" height="37" rx="2" fill="#00f0ff" opacity="0.75"/>
+    <text x="703.5" y="236" class="tick" text-anchor="middle">21</text>
+    <text x="703.5" y="178" class="val" text-anchor="middle">636</text>
+    <rect class="bar" x="724" y="214" width="21" height="6" rx="2" fill="#00f0ff" opacity="0.75"/>
+    <text x="734.5" y="236" class="tick" text-anchor="middle">22</text>
+    <text x="734.5" y="209" class="val" text-anchor="middle">97</text>
+    <rect class="bar" x="755" y="191" width="21" height="29" rx="2" fill="#00f0ff" opacity="0.75"/>
+    <text x="765.5" y="236" class="tick" text-anchor="middle">23</text>
+    <text x="765.5" y="186" class="val" text-anchor="middle">500</text>
+    <rect class="bar" x="786" y="70" width="21" height="150" rx="2" fill="#ff2bd6" opacity="1"/>
+    <text x="796.5" y="236" class="tick" text-anchor="middle">24</text>
+    <text x="796.5" y="65" class="val" text-anchor="middle">2.6k</text>
+    <rect class="bar" x="817" y="118" width="21" height="102" rx="2" fill="#00f0ff" opacity="0.75"/>
+    <text x="827.5" y="236" class="tick" text-anchor="middle">25</text>
+    <text x="827.5" y="113" class="val" text-anchor="middle">1.7k</text>
+    <rect class="bar" x="848" y="109" width="21" height="111" rx="2" fill="#00f0ff" opacity="0.75"/>
+    <text x="858.5" y="236" class="tick" text-anchor="middle">26</text>
+    <text x="858.5" y="104" class="val" text-anchor="middle">1.9k</text>
+  <rect width="900" height="320" rx="10" fill="url(#scan)"/>
+</svg>
