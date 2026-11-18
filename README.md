@@ -106,8 +106,7 @@ MISC  Cleared the National Defence Academy exam (top percentile)
 <h2 align="center">▙ TELEMETRY ▟</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samrat2825&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b0014&title_color=ff2bd6&icon_color=00f0ff&text_color=c8c8d8&ring_color=ff2bd6" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat2825&layout=compact&hide_border=true&bg_color=0b0014&title_color=ff2bd6&text_color=c8c8d8" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samrat2825&layout=compact&hide=html,css,scss,jupyter%20notebook&hide_border=true&bg_color=0b0014&title_color=ff2bd6&text_color=c8c8d8" alt="Top languages" height="170" />
 </p>
 
 <h2 align="center">▙ OPEN CHANNEL ▟</h2>
